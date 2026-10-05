@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <!-- El historial de pruebas es local y no contiene datos sensibles. -->
+    <include
+        domain="file"
+        path="." />
+</full-backup-content>

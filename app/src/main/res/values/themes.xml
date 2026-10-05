@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+        La paleta real se define en Compose (ui/theme/Color.kt) con Material 3 y
+        color dinámico. Este tema XML solo cubre el arranque previo a Compose.
+    -->
+    <style name="Theme.AppSenales" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
